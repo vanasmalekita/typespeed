@@ -1,0 +1,20 @@
+# Éditeurs et système
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Journaux et fichiers temporaires
+*.log
+*.tmp
+
+# Secrets (aucun n'est prévu en V1, par sécurité)
+.env
+.env.*
+config.local.php
+
+# Dépendances éventuelles
+node_modules/
+vendor/
