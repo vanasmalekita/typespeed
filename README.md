@@ -123,3 +123,4 @@ Effectuées par l'auteur de la V1 avant livraison :
 ## Licence
 
 MIT (voir `LICENSE`).
+"# typespeed" 
